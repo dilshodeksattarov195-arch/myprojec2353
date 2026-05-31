@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderuetch",
+        "uuid": 16645122,
+        "checksum": "0j6vyo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
